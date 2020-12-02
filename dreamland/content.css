@@ -1,0 +1,103 @@
+.tabs {
+	float:left;
+	width:100%;
+	font-size:100%;
+	background: url('https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png');
+	border-bottom:1px solid url('https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png') no-repeat left top;
+	margin:0;
+	margin-bottom:0; /*margin between menu and rest of page*/
+	overflow:hidden;
+    height:44px;
+	}
+
+.tabs ul {
+	margin:0;
+	padding:0px 10px 0 0px;
+	list-style:none;
+	}
+
+.tabs li {
+	display:inline;
+	margin:0;
+	padding:0;
+	}
+
+.tabs a {
+	float:left;
+	background:url('https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png;) no-repeat left top;
+	margin:0;
+	padding:0 0 0 6px;
+	text-decoration:none;
+	
+	}
+.tabs1 a {
+	width: 110px;
+	}
+    
+
+.tabs a span {
+	float:left;
+	display:block;
+	background:url(https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png) no-repeat right top;
+	padding:10px 15px 10px 6px;
+	margin-right:2px;
+	color:#FFF;
+	}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+.tabs a span {float:none;}
+
+/* End IE5-Mac hack */
+.tabs a:hover span {
+	}
+
+.tabs a:hover {
+	background:url('https://live.staticflickr.com//65535//50221569077_5b5272e5f5_o.png') no-repeat left top; background-size: 60px 30 px;
+	}
+
+.tabs a:hover span {
+	background:url('https://live.staticflickr.com//65535//50221569077_5b5272e5f5_o.png') no-repeat left top; background-size: 60px 30 px;
+	}
+
+
+  .fwd {width: 145px;}
+  img.fwd {
+ vertical-align: text-bottom;
+}
+  
+.fwd a{
+display: block;
+background:url('https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png') no-repeat left top; background-size: 60px 30 px;
+color: #fff;
+text-decoration: none;
+width: 145px;
+font-size: 18px;
+}
+
+
+.fwd a:hover{
+background:url('https://live.staticflickr.com//65535//50221569077_5b5272e5f5_o.png') no-repeat left top; background-size: 60px 30 px;
+color: #fff;
+font-size: ;  
+}
+  
+.radio1  {
+display: block;
+background:url('https://live.staticflickr.com//65535//50221348786_6e98968b8e_o.png') repeat left top; background-size: 250px 30 px;
+color: #fff;
+text-decoration: none;
+width: 250px;
+font-size: 18px;
+text-align: center;
+}
+
+.radio1 a {color: #fff;text-decoration: none;font-size: 18px;}
+
+
+
+.radio1:hover{
+background:url('https://live.staticflickr.com//65535//50221569077_5b5272e5f5_o.png') repeat left top; background-size: 250px 30 px;
+color: #fff;
+font-size: ;  
+} 
+  
